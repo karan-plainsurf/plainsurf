@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 27, 2019, 12:25:40 PM
+    Author     : hp
+*/
+
+
+.navbar-inverse .navbar-nav > li > a.home{
+    color: blue;
+    padding-top: 50px;
+
+}
+.container-fluid.container {
+    padding-bottom: 70px;
+}
+img.custom {
+    margin-left: -82px;
+}
+.navbar-inverse .navbar-nav > li > a.home:hover{
+    color: brown;
+    transition: all 0.8s;
+}
+
+nav.navbar.navbar-inverse.margin {
+    margin-bottom: 0px;
+}
